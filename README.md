@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Tarun.
+# I'm Tarun. 
 
 I'm a Computer Science Sophomore at the National Institute of Technology, Warangal. I want to see myself working in AI Inference and Systems Engineering in the near future. As of now, apart from studying Machine Learning, I'm working on three projects codenamed as Project Inference, Project Infinity, and Project Plasticity. 
 

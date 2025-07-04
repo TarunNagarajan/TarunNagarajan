@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Tarun
 
-I'm a Computer Science Sophomore at the **National Institute of Technology, Warangal**. I aim to work at the intersection of **AI Inference** and **Systems Engineering** — building fast, efficient, and deployable ML systems.
+I'm a Computer Science Sophomore at the **National Institute of Technology, Warangal**. I'm studying the intersection of **AI Inference** and **Systems Engineering**.
 
-Currently, I'm studying Machine Learning while working on a few high-impact projects:
+Currently, I'm learning the principles of *System Software Engineering*
 
 ---
 
@@ -16,17 +16,7 @@ Currently, I'm studying Machine Learning while working on a few high-impact proj
 
 ---
 
-## 🎲 Multi-Armed Bandit Visualization
+## 🎲 Reinforcement Learning
 
 <img src="https://github.com/user-attachments/assets/503cb08c-f4be-4f34-b704-06ce354a0ec0" width="800">
 
----
-
-## 📫 Let's Connect
-
-Feel free to reach out if you want to collaborate on:
-- ML compilers / quantization / inference runtimes
-- Efficient architectures for edge deployment
-- Systems-level optimizations for AI
-
----

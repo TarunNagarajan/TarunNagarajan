@@ -2,7 +2,7 @@
 
 I'm a Computer Science Sophomore at the **National Institute of Technology, Warangal**. I'm studying the intersection of **AI Inference** and **Systems Engineering**.
 
-Currently, I'm learning the principles of *System Software Engineering*
+Currently, I'm learning the principles of *System Software Engineering*.
 
 ---
 

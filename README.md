@@ -11,7 +11,7 @@ Currently, I'm working on the implementation of my flagship project named *Infin
 
 | Project Name       | Description |
 |--------------------|-------------|
-| 🧠 **Project Inferon** | A toolchain that takes ONNX operators (e.g., `GEMM`, `Conv`) and emits **quantized, sparse-aware compute kernels** in C++/AVX - optimized for desktop/server inference. |
+| 🧠 **Project Inferon** | A toolchain that takes ONNX operators (e.g., `GEMM`, `Conv`, `Relu`) and emits **quantized, sparse-aware compute kernels** in C++/AVX - optimized for desktop/server inference. |
 | 🧵 **Project Infinity** | Systems Engineering with Feedforward Networks - exploring internal structure, static computation graphs, and edge-deployable architectures. |
 | 🧬 **Project Memory** | Exploring **pattern-aware neural networks** that avoid redundancy during training inspired by memorization patterns in real-world data. |
 

@@ -16,9 +16,3 @@ Currently, I'm working on the implementation of my flagship project named *Infin
 | 🧬 **Project Memory** | Exploring **pattern-aware neural networks** that avoid redundancy during training inspired by memorization patterns in real-world data. |
 
 ---
-
-## 🎲 Reinforcement Learning
-
-<img src="https://github.com/user-attachments/assets/503cb08c-f4be-4f34-b704-06ce354a0ec0" width="800">
-
----

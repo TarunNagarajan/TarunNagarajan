@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Tarun
+# I'm Tarun.
 
 I'm a Computer Science Sophomore at the **National Institute of Technology, Warangal**. I'm studying the intersection of **AI Inference** and **Systems Engineering**.
 
